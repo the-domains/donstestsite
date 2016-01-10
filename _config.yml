@@ -1,20 +1,4 @@
-name: donstestsite
-favicon: null
-layout_spectrum: 0.3838430184405297
-typography_spectrum: 0.9924565416295081
-title: "Don's Test Site"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#FF6700'
@@ -24,6 +8,11 @@ color:
     - '#004E98'
   brandStrength: 0.08920998638495803
   lightness: 0.28096964373253286
-  saturation: 0.008483737241476774
   rhythmicContrast: 0.8255798316095024
+  saturation: 0.008483737241476774
+cta: {}
+layout_spectrum: 0.3838430184405297
+name: donstestsite
+opengraph: {}
 purpose: []
+typography_spectrum: 0.9924565416295081
