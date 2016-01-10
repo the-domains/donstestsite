@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.08920998638495803
-  lightness: 0.28096964373253286
-  rhythmicContrast: 0.8255798316095024
-  saturation: 0.008483737241476774
+    - '#A0A0A8'
+    - '#984000'
+    - '#484858'
+    - '#D89008'
+    - '#000000'
+  brandStrength: 0.673221
+  lightness: 0.343632
+  rhythmicContrast: 0.689138
+  saturation: 0.593632
 cta: {}
 layout_spectrum: 0.3838430184405297
 name: donstestsite
