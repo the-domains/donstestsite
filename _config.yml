@@ -1,0 +1,28 @@
+name: donstestsite
+favicon: null
+layout_spectrum: 0.3838430184405297
+typography_spectrum: 0.9924565416295081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08920998638495803
+  lightness: 0.28096964373253286
+  saturation: 0.008483737241476774
+  rhythmicContrast: 0.8255798316095024
+purpose: []
