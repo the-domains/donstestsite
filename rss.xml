@@ -4,20 +4,13 @@
         <description><![CDATA[My testing page]]></description>
         <link>https://thegrid.ai/donstestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 23:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 19:07:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/donstestsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One title ]]></title>
-            <description><![CDATA[<article><h1>One title </h1><p>Jdh xg</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34ef945-92f3-4b3d-bdee-86f0a72890bd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>One title </h1><p>Some sille test Text with Image. .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41bd760f18c4e703438b53639c91f2837167d7a6.jpg"></article>]]></description>
             <link>https://thegrid.ai/donstestsite/57ed8052-3446-42f7-8c3b-61dd5cb9cbb6/index.html</link>
             <guid isPermaLink="false">57ed8052-3446-42f7-8c3b-61dd5cb9cbb6</guid>
-            <pubDate>Sun, 10 Jan 2016 23:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mhhhhhnaja]]></title>
-            <description><![CDATA[<article><h1>Mhhhhhnaja</h1><p>Ahaaha</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10eb394b-5a01-4411-8daa-11e5a9ada7a5.gif"></article>]]></description>
-            <link>https://thegrid.ai/donstestsite/mhhhhhnaja/index.html</link>
-            <guid isPermaLink="false">4c0bd3b8-6ad4-47fb-902a-8b2daeb0f77a</guid>
             <pubDate>Sun, 10 Jan 2016 23:29:47 GMT</pubDate>
         </item>
     </channel>
